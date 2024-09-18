@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DaniahAbukabeer
-- 👀 I’m interested in web development (fullstack) :)
-- - 🌱 I’m currently learning asp.net and flutter on the side :) 
-- 💞️ I’m looking to collaborate on creative web apps OoO
-- 📫 How to reach me ? linkedIn on my profile Teeheehee
+heheheeh daniah here
+i do reactjs now and web in general :3
+reach me ? linkedIn on my profile Teeheehee
 
 <!---
 DaniahAbukabeer/DaniahAbukabeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
